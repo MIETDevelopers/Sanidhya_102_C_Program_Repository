@@ -2,9 +2,9 @@
 Name:Sanidhya Sharma
 #include<stdio.h>
 int main(){
-	int number1, number2, sum;
+	int number1, number2;
 	scanf("%d %d", &number1, &number2); //Scanning values entered by user.
 	sum=number1+number2; //Processing the sum operation.
 	printf("Sum of 2 numbers= %d", sum); //Printing the output.
-	return 0;
+	return number1+number2;
 } 
