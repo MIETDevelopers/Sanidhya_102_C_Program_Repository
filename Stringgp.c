@@ -7,4 +7,4 @@ int main()
     printf("Name: ");
     puts(name);    // Display(print) string
     return 0;
-}
+n

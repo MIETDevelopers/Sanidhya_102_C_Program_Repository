@@ -21,7 +21,7 @@ int main(){
             break;
 
         case '/':
-            printf("%.2lf / %.2lf = %.2lf",a, b, a/b); //Division Function
+            printf("%.2lf / %.2lf = %.2lf",a, b, a/b); //Division Functionn
             break;
     printf("Error encountered by the input values");  //Default
     }
