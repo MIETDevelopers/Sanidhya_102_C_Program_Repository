@@ -1,4 +1,4 @@
-// A C Program demonstrating use of malloc() function.   		© Ishav Verma 20/March/2021
+// A C Program demonstrating use of malloc() function.   		© Sanidhya Sharma 20/March/2021
 #include <stdio.h>
 #include <stdlib.h> //Using standard library header file.
 	int main(){
