@@ -1,4 +1,4 @@
-//© Ishav Verma 19/March/2021
+//© sSanidhya Sharma 19/March/2021
 #include <stdio.h>
 
 void getMatrixElements(int matrix[][10], int row, int column) {
