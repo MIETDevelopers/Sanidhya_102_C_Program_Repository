@@ -1,3 +1,4 @@
+//Auther-Sanidhya Sharma
 // A C Program to check whether the entered number is Odd or Even.
 #include <stdio.h>
 int main() {
