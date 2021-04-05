@@ -1,4 +1,4 @@
-//Auther-Sanidhya Sharma
+//Author-Sanidhya Sharma
 #include<stdio.h>
 int main(){
     char operator;
